@@ -75,7 +75,7 @@ The simulation follows a classic biomedical acquisition chain:
 * **University:** Cairo University, Faculty of Engineering.
 
 **Developer:** Habiba  
-**Connect with me:** [LinkedIn](www.linkedin.com/in/habiba-a-frahat-95754b390) | [Email](ahmdhbybh753@gmail.com)
+**Connect with me:** www.linkedin.com/in/habiba-a-frahat-95754b390 | ahmdhbybh753@gmail.com
 
 ---
 © 2026 Habiba. Distributed under the MIT License.
