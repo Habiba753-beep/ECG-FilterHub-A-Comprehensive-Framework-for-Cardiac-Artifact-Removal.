@@ -63,7 +63,7 @@ The simulation follows a classic biomedical acquisition chain:
 ## 🧪 Simulation Results
 | Regular Simulation | Irregular Simulation |
 | :---: | :---: |
-| (<img width="1658" height="990" alt="Diagrams" src="https://github.com/user-attachments/assets/5a922fbe-4d96-4d21-a636-411b1d3cd47e" />). | (<img width="1658" height="990" alt="Irr_Di" src="https://github.com/user-attachments/assets/0bcd0a78-d13f-4232-8c7d-f06c4e23b2f0" />) | 
+| <img width="1658" height="990" alt="Diagrams" src="https://github.com/user-attachments/assets/5a922fbe-4d96-4d21-a636-411b1d3cd47e" /> | <img width="1658" height="990" alt="Irr_Di" src="https://github.com/user-attachments/assets/0bcd0a78-d13f-4232-8c7d-f06c4e23b2f0" />| 
 
 
 
