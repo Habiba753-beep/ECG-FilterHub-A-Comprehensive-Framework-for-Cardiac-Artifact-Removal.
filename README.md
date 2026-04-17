@@ -1,7 +1,6 @@
 # 🫀 ECG-FilterHub: Advanced Bio-signal Processing Pipeline
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2024-orange?logo=mathworks)
-![Simulink](https://img.shields.slowed/badge/Simulink-Simulation-blue?logo=mathworks)
 ![Field](https://img.shields.io/badge/Domain-Biomedical_Engineering-red)
 
 ## 📌 Overview
