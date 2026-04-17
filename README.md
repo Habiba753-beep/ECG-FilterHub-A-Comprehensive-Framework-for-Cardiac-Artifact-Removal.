@@ -61,20 +61,21 @@ The simulation follows a classic biomedical acquisition chain:
 ---
 
 ## 🧪 Simulation Results
-| Original Signal (Clean) | Contaminated (Noisy) | Recovered (Filtered) |
-| :---: | :---: | :---: |
-| ![Clean](https://via.placeholder.com/200x100?text=Clean+ECG) | ![Noisy](https://via.placeholder.com/200x100?text=Noisy+ECG) | ![Filtered](https://via.placeholder.com/200x100?text=Filtered+ECG) |
-*(Note: Replace placeholders with your actual scope screenshots)*
+| Regular Simulation | Irregular Simulation |
+| :---: | :---: |
+| ![Regular Simulation](<img width="1658" height="990" alt="Diagrams" src="https://github.com/user-attachments/assets/5a922fbe-4d96-4d21-a636-411b1d3cd47e" />). | ![Irregular Simulation](<img width="1658" height="990" alt="Irr_Di" src="https://github.com/user-attachments/assets/0bcd0a78-d13f-4232-8c7d-f06c4e23b2f0" />) | 
+
+
 
 ---
 
 ## 🎓 Academic Context
-* **Course:** Medical Instrumentation & Signal Processing.
+* **Course:** Medical Equipment.
 * **Department:** Systems & Biomedical Engineering (SBME).
 * **University:** Cairo University, Faculty of Engineering.
 
-**Lead Developer:** Habiba  
-**Connect with me:** [LinkedIn](https://your-linkedin-link) | [Email](mailto:your-email@example.com)
+**Developer:** Habiba  
+**Connect with me:** [LinkedIn](www.linkedin.com/in/habiba-a-frahat-95754b390) | [Email](ahmdhbybh753@gmail.com)
 
 ---
 © 2026 Habiba. Distributed under the MIT License.
